@@ -24,4 +24,3 @@ This project analyzes sales data from Amazon's operations in Myanmar, focusing o
   - pymysql
   - matplotlib/seaborn (for visualizations)
 
-## Project Structure
